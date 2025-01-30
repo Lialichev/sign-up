@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --default-font-family: "Inter";
+    --color-light-blue: #F4F9FF;
+    --color-pastel-blue: #E0EDFB;
+    --color-dark-blue: #4A4E71;
+    --color-soft-blue: #6F91BC;
+}
